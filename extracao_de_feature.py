@@ -14,7 +14,7 @@ dataset = Dataset.from_list(data)
 tokenizer = AutoTokenizer.from_pretrained('YituTech/conv-bert-base')
 model = AutoModel.from_pretrained('YituTech/conv-bert-base')
 
-# Função para tokenizar e extrair embeddings
+# Tokenizar e extrair embeddings
 def extract_features(examples):
     inputs = tokenizer(examples['title'], padding=True, truncation=True, return_tensors='pt')
     with torch.no_grad():
@@ -25,10 +25,8 @@ def extract_features(examples):
 
 # Aplicar a extração de features ao dataset
 features = dataset.map(extract_features, batched=True)
-
-# Exibir as features extraídas
 print(features)
 
-# Salvar as features extraídas em um arquivo JSON ou qualquer outro formato desejado
+# Salvar as features extraídas em um arquivo JSON
 features.to_json('pdf_metadata_with_features.json')
 
