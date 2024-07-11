@@ -8,16 +8,16 @@ pdf_directory = 'C:/Users/Professor/Documents/Corpo_textual'
 
 metadata = []
 
-# Função para extrair o texto de um PDF
+# Extrair o texto de um PDF
 def extract_text_from_first_page(file_path):
     doc = fitz.open(file_path)
     text = ""
-    for page_num in range(min(5, len(doc))):  # Garantir que não excedemos o número de páginas do documento
+    for page_num in range(min(5, len(doc))):
         text += doc[page_num].get_text()
     doc.close()
     return text
 
-# Função para encontrar o país de publicação no texto do PDF
+# Encontrar o país de publicação no texto do PDF
 def find_country(text):
     country_patterns = [
         r'\bUSA\b', r'\bUnited States\b', r'\bCanada\b',
@@ -29,7 +29,7 @@ def find_country(text):
             return match.group()
     return None
 
-# Função para encontrar o link de publicação no texto do PDF
+# Encontrar o link de publicação no texto do PDF
 def find_publication_link(text):
     url_pattern = r'https?://(?!creativecommons)[^\s]+'
     match = re.search(url_pattern, text)
@@ -37,7 +37,7 @@ def find_publication_link(text):
         return match.group()
     return None
 
-# Função para encontrar palavras-chave no texto do PDF
+# Encontrar palavras-chave no texto do PDF
 def find_keywords(text):
     keyword_patterns = [
         r'\bKeywords\b:?\s*(.*)',  
@@ -72,10 +72,8 @@ for filename in os.listdir(pdf_directory):
         pdf_info['author'] = pdf_metadata.get('author')
         pdf_info['publication_date'] = pdf_metadata.get('creationDate')
 
-         # Extrai texto das primeiras páginas
         first_page_text = extract_text_from_first_page(file_path)
-        
-        # Busca por país de publicação e link de publicação no texto
+       
         pdf_info['country'] = find_country(first_page_text)
         pdf_info['publication_link'] = find_publication_link(first_page_text)
         pdf_info['keywords'] = find_keywords(first_page_text)
