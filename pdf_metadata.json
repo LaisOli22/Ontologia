@@ -1,0 +1,110 @@
+[
+  {
+    "filename": "3D_RA_SitioArqueologico.pdf",
+    "title": "Cultural Heritage Sites Visualization System based on Outdoor Augmented Reality",
+    "author": "Jong-Gil Han",
+    "publication_date": "D:20131127170632+05'30'",
+    "country": "Korea",
+    "publication_link": "https://doi.org/10.1016/j.aasri.2013.10.011",
+    "keywords": "Augmented Reality, Cultural Heritage Sites, SURF, Object Panorama"
+  },
+  {
+    "filename": "3D_RV_Ilustracoes.pdf",
+    "title": "3D Reconstruction & Traditional Illustrations, a Non-invasive Resource for the Practice and Teaching of Conservation and Restoration of Cultural Heritage",
+    "author": "Ovidia Soto-Martín",
+    "publication_date": "D:20131125192158+05'30'",
+    "country": "USA",
+    "publication_link": "https://doi.org/10.1016/j.procs.2013.11.030",
+    "keywords": "Cultural heritage; 3D modelling; Illustration; Augmented reality; Teaching"
+  },
+  {
+    "filename": "Buda_RestauracaoDigital.pdf",
+    "title": "The Great Buddha Project: Digitally Archiving, Restoring, and Analyzing Cultural Heritage Objects",
+    "author": "Katsushi Ikeuchi",
+    "publication_date": "D:20070709104429+05'30'",
+    "country": "United States",
+    "publication_link": "https://www.researchgate.net/publication/220660376",
+    "keywords": "cultural heritage, range data, alignment, merging, texturing"
+  },
+  {
+    "filename": "Educacao_3D_ReconstrucaoCultural.pdf",
+    "title": "Comprehensive educational framework on the application of 3D technologies for the restoration of cultural heritage objects",
+    "author": "Lien Acke",
+    "publication_date": "D:20240316051821+05'30'",
+    "country": "Belgium",
+    "publication_link": "https://doi.org/10.1016/j.culher.2024.01.013",
+    "keywords": "Restoration"
+  },
+  {
+    "filename": "Games_RA_RV_3D.pdf",
+    "title": "Gamifying cultural heritage: Exploring the potential of immersive virtual exhibitions",
+    "author": "Hanbing Wang",
+    "publication_date": "D:20240625162126+05'30'",
+    "country": "United Kingdom",
+    "publication_link": "https://doi.org/10.1016/j.teler.2024.100150",
+    "keywords": "Cultural Heritage, Gamification, Human-computer Interaction, Immersive virtual Exhibition, Review"
+  },
+  {
+    "filename": "GemeoDigital.pdf",
+    "title": "Saving temporary exhibitions in virtual environments: The Digital Renaissance of Ulisse Aldrovandi - Acquisition and digitisation of cultural heritage objects",
+    "author": "Roberto Balzani",
+    "publication_date": "D:20240320043115Z",
+    "country": "UK",
+    "publication_link": "https://doi.org/10.1016/j.daach.2023.e00309",
+    "keywords": "Digital cultural heritage objects"
+  },
+  {
+    "filename": "MuseuDigital_RV.pdf",
+    "title": "Digitization of myth: The HimmapanVR Project's role in cultural preservation",
+    "author": "Suepphong Chernbumroong",
+    "publication_date": "D:20240515035554Z",
+    "country": "China",
+    "publication_link": "https://doi.org/10.1016/j.heliyon.2024.e30052",
+    "keywords": "Visual museum"
+  },
+  {
+    "filename": "PreservacaoConhecimento_ArteIndiana.pdf",
+    "title": "Cultural Heritage Preservation of Traditional Indian Art through Virtual New-media",
+    "author": "Saptarshi Kolay",
+    "publication_date": "D:20160726135217+05'30'",
+    "country": "India",
+    "publication_link": "https://doi.org/10.1016/j.sbspro.2016.06.030",
+    "keywords": "Virtual heritage; New-media; Traditional Indian art; Knowledge preservation; Visual analysis; Paradigm shift"
+  },
+  {
+    "filename": "PreservacaoDigital_Arquitetura_DesastreNatural.pdf",
+    "title": "A review of the tools and techniques used in the digital preservation of architectural heritage within disaster cycles",
+    "author": "Yuan Li ",
+    "publication_date": "D:20230908102850+05'30'",
+    "country": "United States",
+    "publication_link": "https://doi.org/10.1186/s40494-023-01035-x",
+    "keywords": "Disaster cycles, Digital technology, Architectural heritage, Bibliometric analysis, PRISMA"
+  },
+  {
+    "filename": "Projetos_PatrimonioDigital.pdf",
+    "title": "Digital Cultural Heritage Projects: Opportunities and Future Challenges",
+    "author": "Rossella Caffo",
+    "publication_date": "D:20141107152053+05'30'",
+    "country": "Belgium",
+    "publication_link": "https://doi.org/10.1016/j.procs.2014.10.003",
+    "keywords": "access to cultural heritage resources; Digital Cultural Heritage (DCH); Internet Culturale; CulturaItalia"
+  },
+  {
+    "filename": "RV_ImpactoMidiatico.pdf",
+    "title": "Fluid space: Digitisation of cultural heritage and its media dissemination",
+    "author": "Pei Jin",
+    "publication_date": "D:20221210120223+05'30'",
+    "country": "China",
+    "publication_link": "https://doi.org/10.1016/j.teler.2022.100022",
+    "keywords": "Cultural"
+  },
+  {
+    "filename": "RV_PreservacaoDigital.pdf",
+    "title": "Digital heritage construction: Testing the heritage value of construction documentation and building processes through Virtual Reality",
+    "author": "Luciano Cardellicchio",
+    "publication_date": "D:20240427134241+05'30'",
+    "country": "Australia",
+    "publication_link": "https://doi.org/10.1016/",
+    "keywords": "Digital heritage;"
+  }
+]
