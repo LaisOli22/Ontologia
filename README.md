@@ -9,5 +9,13 @@
 4. Criar uma ontologia
    - Carregar o arquivo JSON com as features para extrair as informações relevantes
    - Definir uma ontologia para categorizar as disciplinas abordadas nos artigos
-   - o arquivo criado  foi o 'ontology.owl'
-5. Com o arquivo .owl criado dá pra colocar em um software pra exibir graficamente como o Web Protegè
+   - o arquivo criado  foi o 'ontologia.json'
+5. Criar um grafo
+   - Carregar o arquivo json da Ontologia
+   - Adicionar as categorias, subcategorias e relações
+   - o arquivo criado  foi o 'grafo.owl'
+6. Com o arquivo .owl criado dá pra colocar em um software pra exibir graficamente como o Web Protegè. Eu preferi colocar em um software chamado Gephi, aí precisa converter o arquivo pra graphml
+   - Carregar o arquivo json da Ontologia
+   - Adicionar as categorias, subcategorias e relações
+   - o arquivo criado  foi o 'grafo.graph'
+   - Importar no Gephi e ajustar os detalhes
