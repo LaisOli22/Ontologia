@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://example.org/ontology#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://example.org/ontology#263-268_41_sDiPP2023-32-6_v.F.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Intellectual Property Protection of Digital Cultural Heritage</rdfs:label>
+    <skos:note>Keywords: C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e, ,,  , D, i, g, i, t, a, l,  , C, o, n, t, e, n, t, ,,  , I, n, t, e, l, l, e, c, t, u, a, l,  , P, r, o, p, e, r, t, y, ,,  , W, a, t, e, r, m, a, r, k, i, n, g, ,,  , P, r, o, t, e, c, t, i, o, n,  , F, r, a, m, e, w, o, r, k,  , M, o, d, e, l, s, .</skos:note>
+    <skos:note>Author: Todor Todorov</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Estudos_de_Caso_em_Restauração"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#305-310_55_pDiPP2023-29-6_v.F.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Towards an Augmented Reality Game for Learning about Ivan Vazov's Literary Works</rdfs:label>
+    <skos:note>Keywords: S, e, r, i, o, u, s,  , G, a, m, e, s, ,,  , P, l, o, v, d, i, v, ,,  , C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e, ,,  , I, v, a, n,  , V, a, z, o, v, ,,  , A, u, g, m, e, n, t, e, d,  , r, e, a, l, i, t, y</skos:note>
+    <skos:note>Author: Ivan Kratchanov</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Análise_de_Imagem"/>
+    <ns1:Tem_Tecnologia>Software</ns1:Tem_Tecnologia>
+    <ns1:Tem_Software>Análise de Imagem</ns1:Tem_Software>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Metadados_e_Catalogação">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Metadados e Catalogação</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Documentação"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#077-086_21_fDiPP2023-38-10_v.F.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Digital Revival of the Bulgarica Collection of the Central Library of the Bulgarian Academy of Sciences</rdfs:label>
+    <skos:note>Keywords: D, i, g, i, t, a, l,  , L, i, b, r, a, r, i, e, s, ,,  , B, u, l, g, a, r, i, c, a,  , C, o, l, l, e, c, t, i, o, n, ,,  , S, c, i, e, n, t, i, f, i, c,  , L, i, t, e, r, a, c, y,  , H, e, r, i, t, a, g, e</skos:note>
+    <skos:note>Author: Maxim Goynov</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Fotogrametria"/>
+    <ns1:Tem_Tecnologia>Digitalização</ns1:Tem_Tecnologia>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Game_Spain.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>ET-06-2022-0247_proof 324..339</rdfs:label>
+    <skos:note>Keywords: B, i, b, l, i, o, m, e, t, r, i, c,  , a, n, a, l, y, s, i, s, ,,  , S, c, i, e, n, t, i, f, i, c,  , m, a, p, p, i, n, g, ,,  , M, o, b, i, l, e,  , l, e, a, r, n, i, n, g, ,,  , G, a, m, e, -, b, a, s, e, d,  , l, e, a, r, n, i, n, g, ,,  , V, i, d, e, o,  , g, a, m, e, s, ,</skos:note>
+    <skos:note>Author: Daniel Camunas-Garcıa</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Plataformas_Online"/>
+    <ns1:Tem_Tecnologia>Acesso e Divulgação</ns1:Tem_Tecnologia>
+    <ns1:Tem_Acesso>Plataformas Online</ns1:Tem_Acesso>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#269-274_42_sDiPP2023-11-6_v.F.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>The Impact of Cloud Technologies on Preserving and Promoting Cultural Identity</rdfs:label>
+    <skos:note>Keywords: C, l, o, u, d,  , T, e, c, h, n, o, l, o, g, i, e, s, ,,  , D, i, g, i, t, a, l, i, z, a, t, i, o, n, ,,  , C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e, ,,  , C, u, l, t, u, r, a, l,  , i, d, e, n, t, i, t, y</skos:note>
+    <skos:note>Author: Irena Peteva;Daniela Pavlova;Ivanka Pavlova</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Ferramentas_de_Restauração_Digital"/>
+    <ns1:Tem_Tecnologia>Software</ns1:Tem_Tecnologia>
+    <ns1:Tem_Software>Ferramentas de Restauração Digital</ns1:Tem_Software>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#GemeoDigital.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Saving temporary exhibitions in virtual environments: The Digital Renaissance of Ulisse Aldrovandi - Acquisition and digitisation of cultural heritage objects</rdfs:label>
+    <skos:note>Keywords: D, i, g, i, t, a, l,  , c, u, l, t, u, r, a, l,  , h, e, r, i, t, a, g, e,  , o, b, j, e, c, t, s, ,,  , D, i, g, i, t, a, l,  , t, w, i, n, s, ,, P, h, o, t, o, g, r, a, m, m, e, t, r, y, ,, P, r, e, s, e, r, v, a, t, i, o, n,  , o, f,  , t, e, m, p, o, r, a, r, y,  , e, x, h, i, b, i, t, i, o, n, s, ,, S, t, r, u, c, t, u, r, e, d,  , l, i, g, h, t,  , p, r, o, j, e, c, t, i, o, n,  , s, c, a, n, n, i, n, g</skos:note>
+    <skos:note>Author: Roberto Balzani</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Metadados_e_Catalogação"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Sistemas_de_Gerenciamento_de_Conteúdo">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Sistemas de Gerenciamento de Conteúdo</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Software"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#RV_PreservacaoDigital.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Digital heritage construction: Testing the heritage value of construction documentation and building processes through Virtual Reality</rdfs:label>
+    <skos:note>Keywords: D, i, g, i, t, a, l,  , h, e, r, i, t, a, g, e, ;</skos:note>
+    <skos:note>Author: Luciano Cardellicchio</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Monitoramento_Ambiental"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Diagnóstico_e_Análise">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Diagnóstico e Análise</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Conservação"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Projetos_PatrimonioDigital.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Digital Cultural Heritage Projects: Opportunities and Future Challenges</rdfs:label>
+    <skos:note>Keywords: a, c, c, e, s, s,  , t, o,  , c, u, l, t, u, r, a, l,  , h, e, r, i, t, a, g, e,  , r, e, s, o, u, r, c, e, s, ;,  , D, i, g, i, t, a, l,  , C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e,  , (, D, C, H, ), ;,  , I, n, t, e, r, n, e, t,  , C, u, l, t, u, r, a, l, e, ;,  , C, u, l, t, u, r, a, I, t, a, l, i, a</skos:note>
+    <skos:note>Author: Rossella Caffo</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Diagnóstico_e_Análise"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#AR_Thai.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Microsoft Word - Layout-IES-p70</rdfs:label>
+    <skos:note>Keywords: a, u, g, m, e, n, t, e, d,  , r, e, a, l, i, t, y, ,,  , m, o, b, i, l, e,  , a, p, p, l, i, c, a, t, i, o, n, ,,  , d, i, g, i, t, a, l,  , l, e, a, r, n, i, n, g,  , m, e, d, i, a, ,,  , t, e, m, p, l, e,  , h, i, s, t, o, r, y,  , l, e, a, r, n, i, n, g, ,,  , U, n, i, t, y,  , 3, D</skos:note>
+    <skos:note>Author: Somchai Muangmool</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Métodos_de_Restauração_Digital"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Teaching_learning_CH.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>ICT Competence in Social Sciences: Designing Digital Resources for Teaching and Learning Cultural Heritage</rdfs:label>
+    <skos:note>Keywords: n, o, v, e, l,  , t, e, c, h, n, o, l, o, g, i, e, s, ,,  , a, r, c, h, a, e, o, l, o, g, i, c, a, l,  , d, o, c, u, m, e, n, t, a, t, i, o, n, ,,  , d, i, g, i, t, a, l,  , r, e, s, o, u, r, c, e, s, ,,  , h, i, g, h,  , e, d, u, c, a, t, i, o, n</skos:note>
+    <skos:note>Author: Ana Luisa Martínez Carrillo</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Métodos_de_Restauração_Digital"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#159-168_29_fDiPP2023-35-10_v.F.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Representing and Creating 3D Bobbin Lace</rdfs:label>
+    <skos:note>Keywords: B, o, b, b, i, n,  , L, a, c, e, ,,  , L, a, c, e, m, a, k, i, n, g,  , G, e, s, t, u, r, e, s, ,,  , T, e, x, t, i, l, e,  , D, e, s, i, g, n, ,,  , 3, D,  , M, e, s, h, e, s, .</skos:note>
+    <skos:note>Author: Julie Agrain</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Métodos_de_Restauração_Digital"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Geral">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Geral</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Educação_e_Disseminação"/>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Armazenamento"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#019-030_11_iDiPP2023-02-12_v.F.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Revival and Multiplatform Presentation of Forgotten Religious Heritage Sites in the Project Named Sacred Past</rdfs:label>
+    <skos:note>Keywords: R, e, l, i, g, i, o, u, s,  , H, e, r, i, t, a, g, e, ,,  , P, i, l, g, r, i, m, a, g, e, ,,  , M, u, l, t, i, m, e, d, i, a, ,,  , D, i, g, i, t, a, l,  , N, a, r, r, a, t, i, v, e, ,,  , V, i, r, t, u, a, l,  , w, a, l, k</skos:note>
+    <skos:note>Author: Gizella Borcsok</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Scanner_3D"/>
+    <ns1:Tem_Tecnologia>Digitalização</ns1:Tem_Tecnologia>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#045-060_14_iDiPP2023-04-16_v.F.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Academic Institutional Repositories for Studies, Research and Preservation of Scientific Heritage in Latvia</rdfs:label>
+    <skos:note>Keywords: O, p, e, n,  , S, c, i, e, n, c, e, ,,  , I, n, s, t, i, t, u, t, i, o, n, a, l,  , R, e, p, o, s, i, t, o, r, i, e, s, ,,  , S, c, h, o, l, a, r, l, y,  , I, n, f, o, r, m, a, t, i, o, n, ,, D, i, g, i, t, a, l,  , P, r, e, s, e, r, v, a, t, i, o, n, ,,  , H, i, g, h, e, r,  , E, d, u, c, a, t, i, o, n,  , I, n, s, t, i, t, u, t, i, o, n, s, .</skos:note>
+    <skos:note>Author: Daina Valeine</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Fotogrametria"/>
+    <ns1:Tem_Tecnologia>Digitalização</ns1:Tem_Tecnologia>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#3D_RV_Ilustracoes.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>3D Reconstruction &amp; Traditional Illustrations, a Non-invasive Resource for the Practice and Teaching of Conservation and Restoration of Cultural Heritage</rdfs:label>
+    <skos:note>Keywords: C, u, l, t, u, r, a, l,  , h, e, r, i, t, a, g, e, ;,  , 3, D,  , m, o, d, e, l, l, i, n, g, ;,  , I, l, l, u, s, t, r, a, t, i, o, n, ;,  , A, u, g, m, e, n, t, e, d,  , r, e, a, l, i, t, y, ;,  , T, e, a, c, h, i, n, g</skos:note>
+    <skos:note>Author: Ovidia Soto-Martin</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Fotogrametria"/>
+    <ns1:Tem_Tecnologia>Digitalização</ns1:Tem_Tecnologia>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#aball,+Journal+manager,+61-242-1-CE.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Digital Preservation and Copyright: An International Study</rdfs:label>
+    <skos:note>Keywords: </skos:note>
+    <skos:note>Author: June M. Besek,</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Diagnóstico_e_Análise"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#229-238_36_fDiPP2023-68-10_v.F.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>The Design Process of Educational Video Games in Cultural Heritage</rdfs:label>
+    <skos:note>Keywords: E, d, u, c, a, t, i, o, n, a, l,  , V, i, d, e, o,  , G, a, m, e, s, ,,  , S, e, r, i, o, u, s,  , G, a, m, e, s, ,,  , D, e, s, i, g, n,  , P, r, o, c, e, s, s, ,,  , C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e, ,,  , P, r, o, t, e, c, t, i, o, n,  , a, n, d,  , P, r, e, s, e, r, v, a, t, i, o, n,  , o, f,  , C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e, ,,  , U, N, E, S, C, O, .</skos:note>
+    <skos:note>Author: Yavor Dankov</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Scanner_3D"/>
+    <ns1:Tem_Tecnologia>Digitalização</ns1:Tem_Tecnologia>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#283-288_52_pDiPP2023-15-6_v.F.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Digital Storytelling Approach for Environmental Challenges and the Early School Leaving Prevention</rdfs:label>
+    <skos:note>Keywords: D, i, g, i, t, a, l,  , S, t, o, r, y, t, e, l, l, i, n, g, ,,  , G, a, m, e, s, ,,  , E, n, v, i, r, o, n, m, e, n, t, a, l,  , I, s, s, u, e, s, .</skos:note>
+    <skos:note>Author: Michela Tramonti</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Geral"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#PreservacaoConhecimento_ArteIndiana.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Cultural Heritage Preservation of Traditional Indian Art through Virtual New-media</rdfs:label>
+    <skos:note>Keywords: V, i, r, t, u, a, l,  , h, e, r, i, t, a, g, e, ;,  , N, e, w, -, m, e, d, i, a, ;,  , T, r, a, d, i, t, i, o, n, a, l,  , I, n, d, i, a, n,  , a, r, t, ;,  , K, n, o, w, l, e, d, g, e,  , p, r, e, s, e, r, v, a, t, i, o, n, ;,  , V, i, s, u, a, l,  , a, n, a, l, y, s, i, s, ;,  , P, a, r, a, d, i, g, m,  , s, h, i, f, t</skos:note>
+    <skos:note>Author: Saptarshi Kolay</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Métodos_de_Restauração_Digital"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Educação_e_Disseminação">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Educação e Disseminação</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#311-316_56_pDiPP2023-12-6_v.F.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Cultural Heritage through the Lens of e-Governance</rdfs:label>
+    <skos:note>Keywords: C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e, ,,  , e, -, G, o, v, e, r, n, a, n, c, e, ,,  , D, i, g, i, t, a, l,  , D, o, c, u, m, e, n, t, a, t, i, o, n, ,,  , O, n, l, i, n, e,  , a, c, e, s, s</skos:note>
+    <skos:note>Author: Daniela Pavlova</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Diagnóstico_e_Análise"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Conservação">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Conservação</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#127-136_26_fDiPP2023-23-10_v.F.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>The Case Study of the Serbian Copyist Ioan. On the Development of a Scientific Method for South Slavonic Palaeography</rdfs:label>
+    <skos:note>Keywords: S, o, u, t, h,  , S, l, a, v, o, n, i, c,  , P, a, l, a, e, o, g, r, a, p, h, y, ,,  , S, e, r, b, i, a, n,  , C, o, p, y, i, s, t, s, ,,  , D, a, t, a, b, a, s, e, ,,  , D, e, s, c, r, i, p, t, i, v, e,  , m, o, d, e, l</skos:note>
+    <skos:note>Author: Marta Riparante</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Metadados_e_Catalogação"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#137-148_27_fDiPP2023-22-12_v.F.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Unsupervised Creation of Semantic Graphs to Navigate Intangible Cultural Heritage Using Transformers</rdfs:label>
+    <skos:note>Keywords: S, e, m, a, n, t, i, c,  , G, r, a, p, h, ,,  , Q, u, e, r, y, L, a, b,  , I, n, t, a, n, g, i, b, l, e,  , C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e,  , P, o, r, t, a, l, ,, C, l, u, s, t, e, r, i, n, g, ,,  , D, a, t, a,  , V, i, s, u, a, l, i, z, a, t, i, o, n, ,,  , B, e, r, t, -, l, i, k, e,  , T, r, a, n, s, f, o, r, m, e, r, s</skos:note>
+    <skos:note>Author: Maria Teresa Artese</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Scanner_3D"/>
+    <ns1:Tem_Tecnologia>Digitalização</ns1:Tem_Tecnologia>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#s10639-023-12151-3.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Digital modes of interpretation of Pictish sculpture</rdfs:label>
+    <skos:note>Keywords: D, i, g, i, t, i, s, a, t, i, o, n, ,,  , 3, D,  , m, o, d, e, l, l, i, n, g, ,,  , H, e, r, i, t, a, g, e,  , i, n, t, e, r, p, r, e, t, a, t, i, o, n, ,,  , I, m, m, e, r, s, i, v, e,  , l, e, a, r, n, i, n, g, ,,  , V, i, r, t, u, a, l,  , r, e, a, l, i, t, y, ,,  , D, i, g, i, t, a, l,  , h, e, r, i, t, a, g, e</skos:note>
+    <skos:note>Author: Sharon Pisani</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Análise_de_Imagem"/>
+    <ns1:Tem_Tecnologia>Software</ns1:Tem_Tecnologia>
+    <ns1:Tem_Software>Análise de Imagem</ns1:Tem_Software>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Aplicativos_Mobile">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Aplicativos Mobile</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Acesso_e_Divulgação"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#149-158_28_fDiPP2023-19-10_v.F.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>An Approach to Data Representation and Processing of Knowledge from the Bulgarian Folklore</rdfs:label>
+    <skos:note>Keywords: C, u, l, t, u, r, a, l, -, H, i, s, t, o, r, i, c, a, l,  , H, e, r, i, t, a, g, e, ,,  , M, o, d, e, l, l, i, n, g,  , a, n, d,  , K, n, o, w, l, e, d, g, e,  , P, r, o, c, e, s, s, i, n, g, ,, F, o, r, m, a, l,  , M, o, d, e, l, s, ,,  , P, r, o, l, o, g, ,,  , O, n, t, o, l, o, g, i, e, s, .</skos:note>
+    <skos:note>Author: Veneta Tabakova-Komsalova</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Fotogrametria"/>
+    <ns1:Tem_Tecnologia>Digitalização</ns1:Tem_Tecnologia>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#117-126_25_fDiPP2023-18-10_v.F.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Digital Reconstruction of Lost Architectural Heritage on the Case Study of Two 19th Century Houses</rdfs:label>
+    <skos:note>Keywords: 3, D, ,,  , P, r, e, s, e, r, v, a, t, i, o, n, ,,  , A, r, c, h, i, t, e, c, t, u, r, a, l,  , H, e, r, i, t, a, g, e, ,,  , V, i, r, t, u, a, l,  , R, e, a, l, i, t, y, .</skos:note>
+    <skos:note>Author: Dimitrina Popova</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Exposições_Virtuais"/>
+    <ns1:Tem_Tecnologia>Acesso e Divulgação</ns1:Tem_Tecnologia>
+    <ns1:Tem_Acesso>Exposições Virtuais</ns1:Tem_Acesso>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Conservação_de_Material_Digital">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Conservação de Material Digital</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Conservação"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Games_RA_RV_3D.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Gamifying cultural heritage: Exploring the potential of immersive virtual exhibitions</rdfs:label>
+    <skos:note>Keywords: C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e, ,,  , G, a, m, i, f, i, c, a, t, i, o, n, ,,  , H, u, m, a, n, -, c, o, m, p, u, t, e, r,  , I, n, t, e, r, a, c, t, i, o, n, ,,  , I, m, m, e, r, s, i, v, e,  , v, i, r, t, u, a, l,  , E, x, h, i, b, i, t, i, o, n, ,,  , R, e, v, i, e, w</skos:note>
+    <skos:note>Author: Hanbing Wang,</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Técnicas_de_Conservação_Preventiva"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#209-218_34_fDiPP2023-34-10_v.F.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Usage of Digitised Scientific Resources in Educational Institutions</rdfs:label>
+    <skos:note>Keywords: S, c, i, e, n, t, i, f, i, c,  , R, e, s, o, u, r, c, e, s, ,,  , S, c, i, e, n, t, i, f, i, c,  , M, e, t, r, i, c, s, ,,  , S, c, i, e, n, t, i, f, i, c,  , P, l, a, t, f, o, r, m, s, ,,  , A, c, c, e, s, s, i, b, i, l, i, t, y, ,,  , E, d, u, c, a, t, i, o, n</skos:note>
+    <skos:note>Author: Todor Todorov</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Fotogrametria"/>
+    <ns1:Tem_Tecnologia>Digitalização</ns1:Tem_Tecnologia>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Armazenamento">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Armazenamento</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#061-068_15_iDipp2023-05_8_v.F.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>The Role of Language Technologies in Digital Humanities(The Case of Parliamentary Debates)</rdfs:label>
+    <skos:note>Keywords: P, a, r, l, i, a, m, e, n, t, a, r, y,  , D, e, b, a, t, e, s, ,,  , P, a, r, l, a, m, i, n, t, ,,  , C, o, m, p, a, r, a, b, l, e,  , C, o, r, p, o, r, a, ,,  , L, a, n, g, u, a, g, e,  , T, e, c, h, n, o, l, o, g, y, ,,  , D, i, g, i, t, a, l,  , H, u, m, a, n, i, t, i, e, s</skos:note>
+    <skos:note>Author: Petya Osenova</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Modelagem_3D"/>
+    <ns1:Tem_Tecnologia>Software</ns1:Tem_Tecnologia>
+    <ns1:Tem_Software>Modelagem 3D</ns1:Tem_Software>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Ferramentas_de_Restauração_Digital">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Ferramentas de Restauração Digital</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Software"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Exposições_Virtuais">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Exposições Virtuais</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Acesso_e_Divulgação"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Teaching_Kazakhstan.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Teachers' views on the level of cultural heritage knowledge that can be improved through innovative technologies</rdfs:label>
+    <skos:note>Keywords: ;,  , C, u, l, t, u, r, a, l,  , h, e, r, i, t, a, g, e, ,,  , I, n, n, o, v, a, t, i, v, e,  , t, e, c, h, n, o, l, o, g, i, e, s, ,,  , C, u, l, t, u, r, a, l,  , h, e, r, i, t, a, g, e,  , e, d, u, c, a, t, i, o, n, ,,  , S, t, u, d, e, n, t,  , k, n, o, w, l, e, d, g, e,  , l, e, v, e, l, .</skos:note>
+    <skos:note>Author: Dinara Zhabykbayeva</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Fotogrametria"/>
+    <ns1:Tem_Tecnologia>Digitalização</ns1:Tem_Tecnologia>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#219-228_35_fDiPP2023-67-10_v.F.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Educational Video Games as Tools for Raising Awareness of the Protection and Preservation of Cultural Heritage</rdfs:label>
+    <skos:note>Keywords: C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e, ,,  , A, r, c, h, i, t, e, c, t, u, r, e, ,,  , P, r, o, t, e, c, t, i, o, n,  , a, n, d,  , P, r, e, s, e, r, v, a, t, i, o, n,  , o, f,  , C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e, ,,  , U, N, E, S, C, O, ,,  , E, d, u, c, a, t, i, o, n, a, l,  , V, i, d, e, o,  , G, a, m, e, s, ,,  , S, e, r, i, o, u, s,  , G, a, m, e</skos:note>
+    <skos:note>Author: Yavor Dankov</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Fotogrametria"/>
+    <ns1:Tem_Tecnologia>Digitalização</ns1:Tem_Tecnologia>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#PreservacaoDigital_Arquitetura_DesastreNatural.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>A review of the tools and techniques used in the digital preservation of architectural heritage within disaster cycles</rdfs:label>
+    <skos:note>Keywords: D, i, s, a, s, t, e, r,  , c, y, c, l, e, s, ,,  , D, i, g, i, t, a, l,  , t, e, c, h, n, o, l, o, g, y, ,,  , A, r, c, h, i, t, e, c, t, u, r, a, l,  , h, e, r, i, t, a, g, e, ,,  , B, i, b, l, i, o, m, e, t, r, i, c,  , a, n, a, l, y, s, i, s, ,,  , P, R, I, S, M, A</skos:note>
+    <skos:note>Author: Yuan Li </skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Fotogrametria"/>
+    <ns1:Tem_Tecnologia>Digitalização</ns1:Tem_Tecnologia>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#097-106_23_fDiPP2023-40-10_v.F.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Tangible and Personalized Smart Museum Application</rdfs:label>
+    <skos:note>Keywords: S, m, a, r, t,  , M, u, s, e, u, m, s, ,,  , T, a, n, g, i, b, l, e,  , I, n, t, e, r, f, a, c, e, s, ,,  , U, s, e, r,  , S, e, g, m, e, n, t, a, t, i, o, n, ,,  , U, s, e, r,  , P, r, o, f, i, l, i, n, g, ,,  , P, u, s, h,  , N, o, t, i, f, i, c, a, t, i, o, n, s, .</skos:note>
+    <skos:note>Author: Rosen Ivanov</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Aplicativos_Mobile"/>
+    <ns1:Tem_Tecnologia>Acesso e Divulgação</ns1:Tem_Tecnologia>
+    <ns1:Tem_Acesso>Aplicativos Mobile</ns1:Tem_Acesso>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Técnicas_de_Conservação_Preventiva">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Técnicas de Conservação Preventiva</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Conservação"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#3D_RA_SitioArqueologico.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Cultural Heritage Sites Visualization System based on Outdoor Augmented Reality</rdfs:label>
+    <skos:note>Keywords: A, u, g, m, e, n, t, e, d,  , R, e, a, l, i, t, y, ,,  , C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e,  , S, i, t, e, s, ,,  , S, U, R, F, ,,  , O, b, j, e, c, t,  , P, a, n, o, r, a, m, a</skos:note>
+    <skos:note>Author: Jong-Gil Han</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Métodos_de_Restauração_Digital"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#317-324_57_pDiPP2023-42-8_v.F.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Aquae Calidae - New Museum Exposition Based on Various Digitalization Methods</rdfs:label>
+    <skos:note>Keywords: D, i, g, i, t, a, l, i, z, a, t, i, o, n, ,,  , C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e, ,,  , 3, D,  , M, a, p, p, i, n, g, ,,  , T, o, u, r, i, s, m, ,,  , V, i, r, t, u, a, l,  , r, e, a, l, i, t, y</skos:note>
+    <skos:note>Author: Radovesta Stewart</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Plataformas_Online"/>
+    <ns1:Tem_Tecnologia>Acesso e Divulgação</ns1:Tem_Tecnologia>
+    <ns1:Tem_Acesso>Plataformas Online</ns1:Tem_Acesso>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Educacao_3D_ReconstrucaoCultural.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Comprehensive educational framework on the application of 3D technologies for the restoration of cultural heritage objects</rdfs:label>
+    <skos:note>Keywords: R, e, s, t, o, r, a, t, i, o, n, ,, 3, D,  , t, e, c, h, n, o, l, o, g, y, ,, E, d, u, c, a, t, i, o, n, ,, C, u, l, t, u, r, a, l,  , h, e, r, i, t, a, g, e, ,, L, o, s, s,  , c, o, m, p, e, n, s, a, t, i, o, n</skos:note>
+    <skos:note>Author: Lien Acke</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Scanner_3D"/>
+    <ns1:Tem_Tecnologia>Digitalização</ns1:Tem_Tecnologia>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#325-332_58_pDiPP2023-43-8_v.F.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Digital Approaches for the Presentation of Tourist Sites with Historical Significance</rdfs:label>
+    <skos:note>Keywords: C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e, ,,  , D, i, g, i, t, a, l,  , R, e, p, r, e, s, e, n, t, a, t, i, o, n, ,,  , W, e, b,  , P, l, a, t, f, o, r, m, s, ,,  , D, i, g, i, t, i, z, a, t, i, o, n, ,,  , T, o, u, r, i, s, t, s,  , s, i, t, e, s</skos:note>
+    <skos:note>Author: Radovesta Stewart</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Scanner_3D"/>
+    <ns1:Tem_Tecnologia>Digitalização</ns1:Tem_Tecnologia>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Integração_de_Técnicas_Tradicionais_e_Digitais">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Integração de Técnicas Tradicionais e Digitais</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Restauração"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Métodos_de_Restauração_Digital">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Métodos de Restauração Digital</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Restauração"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Modelagem_3D">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Modelagem 3D</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Software"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#181-188_31_fDiPP2023-21-8_v.F.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Personalization Approaches for Cultural Heritage Study</rdfs:label>
+    <skos:note>Keywords: P, e, r, s, o, n, a, l, i, z, a, t, i, o, n, ,,  , A, d, a, p, t, i, v, e,  , M, e, t, h, o, d, s, ,,  , W, e, b,  , U, s, a, g, e,  , M, i, n, i, n, g, ,,  , C, o, n, t, e, n, t, b, a, s, e, d,  , F, i, l, t, e, r, i, n, g, ,,  , C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e, .</skos:note>
+    <skos:note>Author: Emanuela Mitreva</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Exposições_Virtuais"/>
+    <ns1:Tem_Tecnologia>Acesso e Divulgação</ns1:Tem_Tecnologia>
+    <ns1:Tem_Acesso>Exposições Virtuais</ns1:Tem_Acesso>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Plataformas_Online">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Plataformas Online</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Acesso_e_Divulgação"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Monitoramento_Ambiental">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Monitoramento Ambiental</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Conservação"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#AR_Cyprus.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Developing augmented reality applications to promote digital storytelling: The cases of Choirokoitia and Sandby Borg</rdfs:label>
+    <skos:note>Keywords: A, R,  , d, e, s, i, g, n,  , &amp;,  , d, e, v, e, l, o, p, m, e, n, t, ,,  , s, t, o, r, y, t, e, l, l, i, n, g, ,,  , c, u, l, t, u, r, a, l,  , h, e, r, i, t, a, g, e</skos:note>
+    <skos:note>Author: Stella Hadjistassou</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Geral"/>
+    <ns1:Tem_Tecnologia>Armazenamento</ns1:Tem_Tecnologia>
+    <ns1:Tem_Armazenamento>Geral</ns1:Tem_Armazenamento>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#039-044_13_iDiPP2023-01-6_v.F.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Online Database of 14th-century South Slavonic Manuscripts. Research Results and Perspectives</rdfs:label>
+    <skos:note>Keywords: D, i, g, i, t, a, l,  , H, u, m, a, n, i, t, i, e, s, ,,  , S, o, u, t, h,  , S, l, a, v, i, c,  , M, a, n, u, s, c, r, i, p, t, s, ,,  , T, y, p, o, l, o, g, i, e, s,  , o, f,  , M, a, n, u, s, c, r, i, p, t, s</skos:note>
+    <skos:note>Author: Marco Scarpa</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Conservação_de_Material_Digital"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#RV_ImpactoMidiatico.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Fluid space: Digitisation of cultural heritage and its media dissemination</rdfs:label>
+    <skos:note>Keywords: C, u, l, t, u, r, a, l,  , h, e, r, i, t, a, g, e, ,,  , M, e, d, i, a,  , d, i, s, s, e, m, i, n, a, t, i, o, n, ,,  , V, i, r, t, u, a, l,  , r, e, a, l, i, t, y</skos:note>
+    <skos:note>Author: Pei Jin</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Scanner_3D"/>
+    <ns1:Tem_Tecnologia>Digitalização</ns1:Tem_Tecnologia>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#189_198_32_fDiPP2023-27-10_v.F.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Career Guidance Model for Digital Transformation in the Cultural and Creative Industries</rdfs:label>
+    <skos:note>Keywords: C, u, l, t, u, r, a, l,  , a, n, d,  , C, r, e, a, t, i, v, e,  , i, n, d, u, s, t, r, i, e, s, ,,  , D, i, g, i, t, a, l,  , T, r, a, n, s, f, o, r, m, a, t, i, o, n, ,,  , H, u, m, a, n,  , C, a, p, i, t, a, l, ,,  , I, n, f, o, r, m, a, t, i, o, n,  , T, e, c, h, n, o, l, o, g, i, e, s, .</skos:note>
+    <skos:note>Author: Evita Pilege</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Integração_de_Técnicas_Tradicionais_e_Digitais"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Documentação">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Documentação</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Acesso_e_Divulgação">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Acesso e Divulgação</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Estudos_de_Caso_em_Restauração">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Estudos de Caso em Restauração</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Restauração"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#277-282_51_pDiPP2023-20-6_v.F.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Storytelling and Gaming Tools for Easy Immersive Fruition of Intangible Heritage</rdfs:label>
+    <skos:note>Keywords: Q, u, e, r, y, l, a, b,  , P, o, r, t, a, l, ,,  , S, e, r, i, o, u, s,  , G, a, m, e, s, ,,  , G, a, m, i, f, i, c, a, t, i, o, n, ,,  , I, m, m, e, r, s, i, v, e,  , F, r, u, i, t, i, o, n, ,</skos:note>
+    <skos:note>Author: Maria Teresa Artese</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Fotogrametria"/>
+    <ns1:Tem_Tecnologia>Digitalização</ns1:Tem_Tecnologia>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#MuseuDigital_RV.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>Digitization of myth: The HimmapanVR Project's role in cultural preservation</rdfs:label>
+    <skos:note>Keywords: V, i, s, u, a, l,  , m, u, s, e, u, m, ,, D, i, g, i, t, a, l,  , m, u, s, e, u, m, ,, C, u, l, t, u, r, a, l,  , p, r, e, s, e, r, v, a, t, i, o, n, ,, C, u, l, t, u, r, a, l,  , h, e, r, i, t, a, g, e, ,, I, m, m, e, r, s, i, v, e,  , s, y, s, t, e, m, s, ,, V, i, r, t, u, a, l,  , r, e, a, l, i, t, y, ,, M, y, t, h, i, c, a, l,  , c, r, e, a, t, u, r, e, s</skos:note>
+    <skos:note>Author: Suepphong Chernbumroong</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Diagnóstico_e_Análise"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Análise_de_Imagem">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Análise de Imagem</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Software"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Buda_RestauracaoDigital.pdf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label>The Great Buddha Project: Digitally Archiving, Restoring, and Analyzing Cultural Heritage Objects</rdfs:label>
+    <skos:note>Keywords: c, u, l, t, u, r, a, l,  , h, e, r, i, t, a, g, e, ,,  , r, a, n, g, e,  , d, a, t, a, ,,  , a, l, i, g, n, m, e, n, t, ,,  , m, e, r, g, i, n, g, ,,  , t, e, x, t, u, r, i, n, g</skos:note>
+    <skos:note>Author: Katsushi Ikeuchi</skos:note>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Sistemas_de_Gerenciamento_de_Conteúdo"/>
+    <ns1:Tem_Tecnologia>Software</ns1:Tem_Tecnologia>
+    <ns1:Tem_Software>Sistemas de Gerenciamento de Conteúdo</ns1:Tem_Software>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Fotogrametria">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Fotogrametria</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Digitalização"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Software">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Software</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Digitalização">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Digitalização</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Scanner_3D">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Scanner 3D</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://example.org/ontology#Digitalização"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ontology#Restauração">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>Restauração</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,615 @@
+{
+    "Digitalização": {
+        "Scanner 3D": [
+            {
+                "title": "Revival and Multiplatform Presentation of Forgotten Religious Heritage Sites in the Project Named Sacred Past",
+                "id": "019-030_11_iDiPP2023-02-12_v.F.pdf",
+                "keywords": "Religious Heritage, Pilgrimage, Multimedia, Digital Narrative, Virtual walk",
+                "author": "Gizella Borcsok",
+                "properties": {
+                    "Tem_Tecnologia": "Digitalização",
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            },
+            {
+                "title": "Unsupervised Creation of Semantic Graphs to Navigate Intangible Cultural Heritage Using Transformers",
+                "id": "137-148_27_fDiPP2023-22-12_v.F.pdf",
+                "keywords": "Semantic Graph, QueryLab Intangible Cultural Heritage Portal,Clustering, Data Visualization, Bert-like Transformers",
+                "author": "Maria Teresa Artese",
+                "properties": {
+                    "Tem_Tecnologia": "Digitalização",
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            },
+            {
+                "title": "The Design Process of Educational Video Games in Cultural Heritage",
+                "id": "229-238_36_fDiPP2023-68-10_v.F.pdf",
+                "keywords": "Educational Video Games, Serious Games, Design Process, Cultural Heritage, Protection and Preservation of Cultural Heritage, UNESCO.",
+                "author": "Yavor Dankov",
+                "properties": {
+                    "Tem_Tecnologia": "Digitalização",
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            },
+            {
+                "title": "Digital Approaches for the Presentation of Tourist Sites with Historical Significance",
+                "id": "325-332_58_pDiPP2023-43-8_v.F.pdf",
+                "keywords": "Cultural Heritage, Digital Representation, Web Platforms, Digitization, Tourists sites",
+                "author": "Radovesta Stewart",
+                "properties": {
+                    "Tem_Tecnologia": "Digitalização",
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            },
+            {
+                "title": "Comprehensive educational framework on the application of 3D technologies for the restoration of cultural heritage objects",
+                "id": "Educacao_3D_ReconstrucaoCultural.pdf",
+                "keywords": "Restoration,3D technology,Education,Cultural heritage,Loss compensation",
+                "author": "Lien Acke",
+                "properties": {
+                    "Tem_Tecnologia": "Digitalização",
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            },
+            {
+                "title": "Fluid space: Digitisation of cultural heritage and its media dissemination",
+                "id": "RV_ImpactoMidiatico.pdf",
+                "keywords": "Cultural heritage, Media dissemination, Virtual reality",
+                "author": "Pei Jin",
+                "properties": {
+                    "Tem_Tecnologia": "Digitalização",
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            }
+        ],
+        "Fotogrametria": [
+            {
+                "title": "Academic Institutional Repositories for Studies, Research and Preservation of Scientific Heritage in Latvia",
+                "id": "045-060_14_iDiPP2023-04-16_v.F.pdf",
+                "keywords": "Open Science, Institutional Repositories, Scholarly Information,Digital Preservation, Higher Education Institutions.",
+                "author": "Daina Valeine",
+                "properties": {
+                    "Tem_Tecnologia": "Digitalização",
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            },
+            {
+                "title": "Digital Revival of the Bulgarica Collection of the Central Library of the Bulgarian Academy of Sciences",
+                "id": "077-086_21_fDiPP2023-38-10_v.F.pdf",
+                "keywords": "Digital Libraries, Bulgarica Collection, Scientific Literacy Heritage",
+                "author": "Maxim Goynov",
+                "properties": {
+                    "Tem_Tecnologia": "Digitalização",
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            },
+            {
+                "title": "An Approach to Data Representation and Processing of Knowledge from the Bulgarian Folklore",
+                "id": "149-158_28_fDiPP2023-19-10_v.F.pdf",
+                "keywords": "Cultural-Historical Heritage, Modelling and Knowledge Processing,Formal Models, Prolog, Ontologies.",
+                "author": "Veneta Tabakova-Komsalova",
+                "properties": {
+                    "Tem_Tecnologia": "Digitalização",
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            },
+            {
+                "title": "Usage of Digitised Scientific Resources in Educational Institutions",
+                "id": "209-218_34_fDiPP2023-34-10_v.F.pdf",
+                "keywords": "Scientific Resources, Scientific Metrics, Scientific Platforms, Accessibility, Education",
+                "author": "Todor Todorov",
+                "properties": {
+                    "Tem_Tecnologia": "Digitalização",
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            },
+            {
+                "title": "Educational Video Games as Tools for Raising Awareness of the Protection and Preservation of Cultural Heritage",
+                "id": "219-228_35_fDiPP2023-67-10_v.F.pdf",
+                "keywords": "Cultural Heritage, Architecture, Protection and Preservation of Cultural Heritage, UNESCO, Educational Video Games, Serious Game",
+                "author": "Yavor Dankov",
+                "properties": {
+                    "Tem_Tecnologia": "Digitalização",
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            },
+            {
+                "title": "Storytelling and Gaming Tools for Easy Immersive Fruition of Intangible Heritage",
+                "id": "277-282_51_pDiPP2023-20-6_v.F.pdf",
+                "keywords": "Querylab Portal, Serious Games, Gamification, Immersive Fruition,",
+                "author": "Maria Teresa Artese",
+                "properties": {
+                    "Tem_Tecnologia": "Digitalização",
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            },
+            {
+                "title": "3D Reconstruction & Traditional Illustrations, a Non-invasive Resource for the Practice and Teaching of Conservation and Restoration of Cultural Heritage",
+                "id": "3D_RV_Ilustracoes.pdf",
+                "keywords": "Cultural heritage; 3D modelling; Illustration; Augmented reality; Teaching",
+                "author": "Ovidia Soto-Martin",
+                "properties": {
+                    "Tem_Tecnologia": "Digitalização",
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            },
+            {
+                "title": "A review of the tools and techniques used in the digital preservation of architectural heritage within disaster cycles",
+                "id": "PreservacaoDigital_Arquitetura_DesastreNatural.pdf",
+                "keywords": "Disaster cycles, Digital technology, Architectural heritage, Bibliometric analysis, PRISMA",
+                "author": "Yuan Li ",
+                "properties": {
+                    "Tem_Tecnologia": "Digitalização",
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            },
+            {
+                "title": "Teachers' views on the level of cultural heritage knowledge that can be improved through innovative technologies",
+                "id": "Teaching_Kazakhstan.pdf",
+                "keywords": "; Cultural heritage, Innovative technologies, Cultural heritage education, Student knowledge level.",
+                "author": "Dinara Zhabykbayeva",
+                "properties": {
+                    "Tem_Tecnologia": "Digitalização",
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            }
+        ]
+    },
+    "Conservação": {
+        "Conservação de Material Digital": [
+            {
+                "title": "Online Database of 14th-century South Slavonic Manuscripts. Research Results and Perspectives",
+                "id": "039-044_13_iDiPP2023-01-6_v.F.pdf",
+                "keywords": "Digital Humanities, South Slavic Manuscripts, Typologies of Manuscripts",
+                "author": "Marco Scarpa",
+                "properties": {
+                    "Tem_Tecnologia": null,
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            }
+        ],
+        "Diagnóstico e Análise": [
+            {
+                "title": "Cultural Heritage through the Lens of e-Governance",
+                "id": "311-316_56_pDiPP2023-12-6_v.F.pdf",
+                "keywords": "Cultural Heritage, e-Governance, Digital Documentation, Online acess",
+                "author": "Daniela Pavlova",
+                "properties": {
+                    "Tem_Tecnologia": null,
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            },
+            {
+                "title": "Digital Preservation and Copyright: An International Study",
+                "id": "aball,+Journal+manager,+61-242-1-CE.pdf",
+                "keywords": "",
+                "author": "June M. Besek,",
+                "properties": {
+                    "Tem_Tecnologia": null,
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            },
+            {
+                "title": "Digitization of myth: The HimmapanVR Project's role in cultural preservation",
+                "id": "MuseuDigital_RV.pdf",
+                "keywords": "Visual museum,Digital museum,Cultural preservation,Cultural heritage,Immersive systems,Virtual reality,Mythical creatures",
+                "author": "Suepphong Chernbumroong",
+                "properties": {
+                    "Tem_Tecnologia": null,
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            },
+            {
+                "title": "Digital Cultural Heritage Projects: Opportunities and Future Challenges",
+                "id": "Projetos_PatrimonioDigital.pdf",
+                "keywords": "access to cultural heritage resources; Digital Cultural Heritage (DCH); Internet Culturale; CulturaItalia",
+                "author": "Rossella Caffo",
+                "properties": {
+                    "Tem_Tecnologia": null,
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            }
+        ],
+        "Técnicas de Conservação Preventiva": [
+            {
+                "title": "Gamifying cultural heritage: Exploring the potential of immersive virtual exhibitions",
+                "id": "Games_RA_RV_3D.pdf",
+                "keywords": "Cultural Heritage, Gamification, Human-computer Interaction, Immersive virtual Exhibition, Review",
+                "author": "Hanbing Wang,",
+                "properties": {
+                    "Tem_Tecnologia": null,
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            }
+        ],
+        "Monitoramento Ambiental": [
+            {
+                "title": "Digital heritage construction: Testing the heritage value of construction documentation and building processes through Virtual Reality",
+                "id": "RV_PreservacaoDigital.pdf",
+                "keywords": "Digital heritage;",
+                "author": "Luciano Cardellicchio",
+                "properties": {
+                    "Tem_Tecnologia": null,
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            }
+        ]
+    },
+    "Software": {
+        "Modelagem 3D": [
+            {
+                "title": "The Role of Language Technologies in Digital Humanities(The Case of Parliamentary Debates)",
+                "id": "061-068_15_iDipp2023-05_8_v.F.pdf",
+                "keywords": "Parliamentary Debates, Parlamint, Comparable Corpora, Language Technology, Digital Humanities",
+                "author": "Petya Osenova",
+                "properties": {
+                    "Tem_Tecnologia": "Software",
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": "Modelagem 3D",
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            }
+        ],
+        "Ferramentas de Restauração Digital": [
+            {
+                "title": "The Impact of Cloud Technologies on Preserving and Promoting Cultural Identity",
+                "id": "269-274_42_sDiPP2023-11-6_v.F.pdf",
+                "keywords": "Cloud Technologies, Digitalization, Cultural Heritage, Cultural identity",
+                "author": "Irena Peteva;Daniela Pavlova;Ivanka Pavlova",
+                "properties": {
+                    "Tem_Tecnologia": "Software",
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": "Ferramentas de Restauração Digital",
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            }
+        ],
+        "Análise de Imagem": [
+            {
+                "title": "Towards an Augmented Reality Game for Learning about Ivan Vazov's Literary Works",
+                "id": "305-310_55_pDiPP2023-29-6_v.F.pdf",
+                "keywords": "Serious Games, Plovdiv, Cultural Heritage, Ivan Vazov, Augmented reality",
+                "author": "Ivan Kratchanov",
+                "properties": {
+                    "Tem_Tecnologia": "Software",
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": "Análise de Imagem",
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            },
+            {
+                "title": "Digital modes of interpretation of Pictish sculpture",
+                "id": "s10639-023-12151-3.pdf",
+                "keywords": "Digitisation, 3D modelling, Heritage interpretation, Immersive learning, Virtual reality, Digital heritage",
+                "author": "Sharon Pisani",
+                "properties": {
+                    "Tem_Tecnologia": "Software",
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": "Análise de Imagem",
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            }
+        ],
+        "Sistemas de Gerenciamento de Conteúdo": [
+            {
+                "title": "The Great Buddha Project: Digitally Archiving, Restoring, and Analyzing Cultural Heritage Objects",
+                "id": "Buda_RestauracaoDigital.pdf",
+                "keywords": "cultural heritage, range data, alignment, merging, texturing",
+                "author": "Katsushi Ikeuchi",
+                "properties": {
+                    "Tem_Tecnologia": "Software",
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": "Sistemas de Gerenciamento de Conteúdo",
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            }
+        ]
+    },
+    "Acesso e Divulgação": {
+        "Aplicativos Mobile": [
+            {
+                "title": "Tangible and Personalized Smart Museum Application",
+                "id": "097-106_23_fDiPP2023-40-10_v.F.pdf",
+                "keywords": "Smart Museums, Tangible Interfaces, User Segmentation, User Profiling, Push Notifications.",
+                "author": "Rosen Ivanov",
+                "properties": {
+                    "Tem_Tecnologia": "Acesso e Divulgação",
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": "Aplicativos Mobile",
+                    "Tem_Objetivo": null
+                }
+            }
+        ],
+        "Exposições Virtuais": [
+            {
+                "title": "Digital Reconstruction of Lost Architectural Heritage on the Case Study of Two 19th Century Houses",
+                "id": "117-126_25_fDiPP2023-18-10_v.F.pdf",
+                "keywords": "3D, Preservation, Architectural Heritage, Virtual Reality.",
+                "author": "Dimitrina Popova",
+                "properties": {
+                    "Tem_Tecnologia": "Acesso e Divulgação",
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": "Exposições Virtuais",
+                    "Tem_Objetivo": null
+                }
+            },
+            {
+                "title": "Personalization Approaches for Cultural Heritage Study",
+                "id": "181-188_31_fDiPP2023-21-8_v.F.pdf",
+                "keywords": "Personalization, Adaptive Methods, Web Usage Mining, Contentbased Filtering, Cultural Heritage.",
+                "author": "Emanuela Mitreva",
+                "properties": {
+                    "Tem_Tecnologia": "Acesso e Divulgação",
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": "Exposições Virtuais",
+                    "Tem_Objetivo": null
+                }
+            }
+        ],
+        "Plataformas Online": [
+            {
+                "title": "Aquae Calidae - New Museum Exposition Based on Various Digitalization Methods",
+                "id": "317-324_57_pDiPP2023-42-8_v.F.pdf",
+                "keywords": "Digitalization, Cultural Heritage, 3D Mapping, Tourism, Virtual reality",
+                "author": "Radovesta Stewart",
+                "properties": {
+                    "Tem_Tecnologia": "Acesso e Divulgação",
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": "Plataformas Online",
+                    "Tem_Objetivo": null
+                }
+            },
+            {
+                "title": "ET-06-2022-0247_proof 324..339",
+                "id": "Game_Spain.pdf",
+                "keywords": "Bibliometric analysis, Scientific mapping, Mobile learning, Game-based learning, Video games,",
+                "author": "Daniel Camunas-Garcıa",
+                "properties": {
+                    "Tem_Tecnologia": "Acesso e Divulgação",
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": "Plataformas Online",
+                    "Tem_Objetivo": null
+                }
+            }
+        ]
+    },
+    "Documentação": {
+        "Metadados e Catalogação": [
+            {
+                "title": "The Case Study of the Serbian Copyist Ioan. On the Development of a Scientific Method for South Slavonic Palaeography",
+                "id": "127-136_26_fDiPP2023-23-10_v.F.pdf",
+                "keywords": "South Slavonic Palaeography, Serbian Copyists, Database, Descriptive model",
+                "author": "Marta Riparante",
+                "properties": {
+                    "Tem_Tecnologia": null,
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            },
+            {
+                "title": "Saving temporary exhibitions in virtual environments: The Digital Renaissance of Ulisse Aldrovandi - Acquisition and digitisation of cultural heritage objects",
+                "id": "GemeoDigital.pdf",
+                "keywords": "Digital cultural heritage objects, Digital twins,Photogrammetry,Preservation of temporary exhibitions,Structured light projection scanning",
+                "author": "Roberto Balzani",
+                "properties": {
+                    "Tem_Tecnologia": null,
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            }
+        ]
+    },
+    "Restauração": {
+        "Métodos de Restauração Digital": [
+            {
+                "title": "Representing and Creating 3D Bobbin Lace",
+                "id": "159-168_29_fDiPP2023-35-10_v.F.pdf",
+                "keywords": "Bobbin Lace, Lacemaking Gestures, Textile Design, 3D Meshes.",
+                "author": "Julie Agrain",
+                "properties": {
+                    "Tem_Tecnologia": null,
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            },
+            {
+                "title": "Cultural Heritage Sites Visualization System based on Outdoor Augmented Reality",
+                "id": "3D_RA_SitioArqueologico.pdf",
+                "keywords": "Augmented Reality, Cultural Heritage Sites, SURF, Object Panorama",
+                "author": "Jong-Gil Han",
+                "properties": {
+                    "Tem_Tecnologia": null,
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            },
+            {
+                "title": "Microsoft Word - Layout-IES-p70",
+                "id": "AR_Thai.pdf",
+                "keywords": "augmented reality, mobile application, digital learning media, temple history learning, Unity 3D",
+                "author": "Somchai Muangmool",
+                "properties": {
+                    "Tem_Tecnologia": null,
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            },
+            {
+                "title": "Cultural Heritage Preservation of Traditional Indian Art through Virtual New-media",
+                "id": "PreservacaoConhecimento_ArteIndiana.pdf",
+                "keywords": "Virtual heritage; New-media; Traditional Indian art; Knowledge preservation; Visual analysis; Paradigm shift",
+                "author": "Saptarshi Kolay",
+                "properties": {
+                    "Tem_Tecnologia": null,
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            },
+            {
+                "title": "ICT Competence in Social Sciences: Designing Digital Resources for Teaching and Learning Cultural Heritage",
+                "id": "Teaching_learning_CH.pdf",
+                "keywords": "novel technologies, archaeological documentation, digital resources, high education",
+                "author": "Ana Luisa Martínez Carrillo",
+                "properties": {
+                    "Tem_Tecnologia": null,
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            }
+        ],
+        "Integração de Técnicas Tradicionais e Digitais": [
+            {
+                "title": "Career Guidance Model for Digital Transformation in the Cultural and Creative Industries",
+                "id": "189_198_32_fDiPP2023-27-10_v.F.pdf",
+                "keywords": "Cultural and Creative industries, Digital Transformation, Human Capital, Information Technologies.",
+                "author": "Evita Pilege",
+                "properties": {
+                    "Tem_Tecnologia": null,
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            }
+        ],
+        "Estudos de Caso em Restauração": [
+            {
+                "title": "Intellectual Property Protection of Digital Cultural Heritage",
+                "id": "263-268_41_sDiPP2023-32-6_v.F.pdf",
+                "keywords": "Cultural Heritage, Digital Content, Intellectual Property, Watermarking, Protection Framework Models.",
+                "author": "Todor Todorov",
+                "properties": {
+                    "Tem_Tecnologia": null,
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            }
+        ]
+    },
+    "Educação e Disseminação": {
+        "Geral": [
+            {
+                "title": "Digital Storytelling Approach for Environmental Challenges and the Early School Leaving Prevention",
+                "id": "283-288_52_pDiPP2023-15-6_v.F.pdf",
+                "keywords": "Digital Storytelling, Games, Environmental Issues.",
+                "author": "Michela Tramonti",
+                "properties": {
+                    "Tem_Tecnologia": null,
+                    "Tem_Armazenamento": null,
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            }
+        ]
+    },
+    "Armazenamento": {
+        "Geral": [
+            {
+                "title": "Developing augmented reality applications to promote digital storytelling: The cases of Choirokoitia and Sandby Borg",
+                "id": "AR_Cyprus.pdf",
+                "keywords": "AR design & development, storytelling, cultural heritage",
+                "author": "Stella Hadjistassou",
+                "properties": {
+                    "Tem_Tecnologia": "Armazenamento",
+                    "Tem_Armazenamento": "Geral",
+                    "Tem_Software": null,
+                    "Tem_Acesso": null,
+                    "Tem_Objetivo": null
+                }
+            }
+        ]
+    }
+}

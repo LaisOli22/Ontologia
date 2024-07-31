@@ -1,0 +1,488 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="relationship" attr.type="string" />
+  <key id="d2" for="node" attr.name="keywords" attr.type="string" />
+  <key id="d1" for="node" attr.name="author" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="Digitalização">
+      <data key="d0">Categoria</data>
+    </node>
+    <node id="Scanner 3D">
+      <data key="d0">Subcategoria</data>
+    </node>
+    <node id="Revival and Multiplatform Presentation of Forgotten Religious Heritage Sites in the Project Named Sacred Past">
+      <data key="d0">Artigo</data>
+      <data key="d1">Gizella Borcsok</data>
+      <data key="d2">R, e, l, i, g, i, o, u, s,  , H, e, r, i, t, a, g, e, ,,  , P, i, l, g, r, i, m, a, g, e, ,,  , M, u, l, t, i, m, e, d, i, a, ,,  , D, i, g, i, t, a, l,  , N, a, r, r, a, t, i, v, e, ,,  , V, i, r, t, u, a, l,  , w, a, l, k</data>
+    </node>
+    <node id="Unsupervised Creation of Semantic Graphs to Navigate Intangible Cultural Heritage Using Transformers">
+      <data key="d0">Artigo</data>
+      <data key="d1">Maria Teresa Artese</data>
+      <data key="d2">S, e, m, a, n, t, i, c,  , G, r, a, p, h, ,,  , Q, u, e, r, y, L, a, b,  , I, n, t, a, n, g, i, b, l, e,  , C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e,  , P, o, r, t, a, l, ,, C, l, u, s, t, e, r, i, n, g, ,,  , D, a, t, a,  , V, i, s, u, a, l, i, z, a, t, i, o, n, ,,  , B, e, r, t, -, l, i, k, e,  , T, r, a, n, s, f, o, r, m, e, r, s</data>
+    </node>
+    <node id="The Design Process of Educational Video Games in Cultural Heritage">
+      <data key="d0">Artigo</data>
+      <data key="d1">Yavor Dankov</data>
+      <data key="d2">E, d, u, c, a, t, i, o, n, a, l,  , V, i, d, e, o,  , G, a, m, e, s, ,,  , S, e, r, i, o, u, s,  , G, a, m, e, s, ,,  , D, e, s, i, g, n,  , P, r, o, c, e, s, s, ,,  , C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e, ,,  , P, r, o, t, e, c, t, i, o, n,  , a, n, d,  , P, r, e, s, e, r, v, a, t, i, o, n,  , o, f,  , C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e, ,,  , U, N, E, S, C, O, .</data>
+    </node>
+    <node id="Digital Approaches for the Presentation of Tourist Sites with Historical Significance">
+      <data key="d0">Artigo</data>
+      <data key="d1">Radovesta Stewart</data>
+      <data key="d2">C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e, ,,  , D, i, g, i, t, a, l,  , R, e, p, r, e, s, e, n, t, a, t, i, o, n, ,,  , W, e, b,  , P, l, a, t, f, o, r, m, s, ,,  , D, i, g, i, t, i, z, a, t, i, o, n, ,,  , T, o, u, r, i, s, t, s,  , s, i, t, e, s</data>
+    </node>
+    <node id="Comprehensive educational framework on the application of 3D technologies for the restoration of cultural heritage objects">
+      <data key="d0">Artigo</data>
+      <data key="d1">Lien Acke</data>
+      <data key="d2">R, e, s, t, o, r, a, t, i, o, n, ,, 3, D,  , t, e, c, h, n, o, l, o, g, y, ,, E, d, u, c, a, t, i, o, n, ,, C, u, l, t, u, r, a, l,  , h, e, r, i, t, a, g, e, ,, L, o, s, s,  , c, o, m, p, e, n, s, a, t, i, o, n</data>
+    </node>
+    <node id="Fluid space: Digitisation of cultural heritage and its media dissemination">
+      <data key="d0">Artigo</data>
+      <data key="d1">Pei Jin</data>
+      <data key="d2">C, u, l, t, u, r, a, l,  , h, e, r, i, t, a, g, e, ,,  , M, e, d, i, a,  , d, i, s, s, e, m, i, n, a, t, i, o, n, ,,  , V, i, r, t, u, a, l,  , r, e, a, l, i, t, y</data>
+    </node>
+    <node id="Fotogrametria">
+      <data key="d0">Subcategoria</data>
+    </node>
+    <node id="Academic Institutional Repositories for Studies, Research and Preservation of Scientific Heritage in Latvia">
+      <data key="d0">Artigo</data>
+      <data key="d1">Daina Valeine</data>
+      <data key="d2">O, p, e, n,  , S, c, i, e, n, c, e, ,,  , I, n, s, t, i, t, u, t, i, o, n, a, l,  , R, e, p, o, s, i, t, o, r, i, e, s, ,,  , S, c, h, o, l, a, r, l, y,  , I, n, f, o, r, m, a, t, i, o, n, ,, D, i, g, i, t, a, l,  , P, r, e, s, e, r, v, a, t, i, o, n, ,,  , H, i, g, h, e, r,  , E, d, u, c, a, t, i, o, n,  , I, n, s, t, i, t, u, t, i, o, n, s, .</data>
+    </node>
+    <node id="Digital Revival of the Bulgarica Collection of the Central Library of the Bulgarian Academy of Sciences">
+      <data key="d0">Artigo</data>
+      <data key="d1">Maxim Goynov</data>
+      <data key="d2">D, i, g, i, t, a, l,  , L, i, b, r, a, r, i, e, s, ,,  , B, u, l, g, a, r, i, c, a,  , C, o, l, l, e, c, t, i, o, n, ,,  , S, c, i, e, n, t, i, f, i, c,  , L, i, t, e, r, a, c, y,  , H, e, r, i, t, a, g, e</data>
+    </node>
+    <node id="An Approach to Data Representation and Processing of Knowledge from the Bulgarian Folklore">
+      <data key="d0">Artigo</data>
+      <data key="d1">Veneta Tabakova-Komsalova</data>
+      <data key="d2">C, u, l, t, u, r, a, l, -, H, i, s, t, o, r, i, c, a, l,  , H, e, r, i, t, a, g, e, ,,  , M, o, d, e, l, l, i, n, g,  , a, n, d,  , K, n, o, w, l, e, d, g, e,  , P, r, o, c, e, s, s, i, n, g, ,, F, o, r, m, a, l,  , M, o, d, e, l, s, ,,  , P, r, o, l, o, g, ,,  , O, n, t, o, l, o, g, i, e, s, .</data>
+    </node>
+    <node id="Usage of Digitised Scientific Resources in Educational Institutions">
+      <data key="d0">Artigo</data>
+      <data key="d1">Todor Todorov</data>
+      <data key="d2">S, c, i, e, n, t, i, f, i, c,  , R, e, s, o, u, r, c, e, s, ,,  , S, c, i, e, n, t, i, f, i, c,  , M, e, t, r, i, c, s, ,,  , S, c, i, e, n, t, i, f, i, c,  , P, l, a, t, f, o, r, m, s, ,,  , A, c, c, e, s, s, i, b, i, l, i, t, y, ,,  , E, d, u, c, a, t, i, o, n</data>
+    </node>
+    <node id="Educational Video Games as Tools for Raising Awareness of the Protection and Preservation of Cultural Heritage">
+      <data key="d0">Artigo</data>
+      <data key="d1">Yavor Dankov</data>
+      <data key="d2">C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e, ,,  , A, r, c, h, i, t, e, c, t, u, r, e, ,,  , P, r, o, t, e, c, t, i, o, n,  , a, n, d,  , P, r, e, s, e, r, v, a, t, i, o, n,  , o, f,  , C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e, ,,  , U, N, E, S, C, O, ,,  , E, d, u, c, a, t, i, o, n, a, l,  , V, i, d, e, o,  , G, a, m, e, s, ,,  , S, e, r, i, o, u, s,  , G, a, m, e</data>
+    </node>
+    <node id="Storytelling and Gaming Tools for Easy Immersive Fruition of Intangible Heritage">
+      <data key="d0">Artigo</data>
+      <data key="d1">Maria Teresa Artese</data>
+      <data key="d2">Q, u, e, r, y, l, a, b,  , P, o, r, t, a, l, ,,  , S, e, r, i, o, u, s,  , G, a, m, e, s, ,,  , G, a, m, i, f, i, c, a, t, i, o, n, ,,  , I, m, m, e, r, s, i, v, e,  , F, r, u, i, t, i, o, n, ,</data>
+    </node>
+    <node id="3D Reconstruction &amp; Traditional Illustrations, a Non-invasive Resource for the Practice and Teaching of Conservation and Restoration of Cultural Heritage">
+      <data key="d0">Artigo</data>
+      <data key="d1">Ovidia Soto-Martin</data>
+      <data key="d2">C, u, l, t, u, r, a, l,  , h, e, r, i, t, a, g, e, ;,  , 3, D,  , m, o, d, e, l, l, i, n, g, ;,  , I, l, l, u, s, t, r, a, t, i, o, n, ;,  , A, u, g, m, e, n, t, e, d,  , r, e, a, l, i, t, y, ;,  , T, e, a, c, h, i, n, g</data>
+    </node>
+    <node id="A review of the tools and techniques used in the digital preservation of architectural heritage within disaster cycles">
+      <data key="d0">Artigo</data>
+      <data key="d1">Yuan Li </data>
+      <data key="d2">D, i, s, a, s, t, e, r,  , c, y, c, l, e, s, ,,  , D, i, g, i, t, a, l,  , t, e, c, h, n, o, l, o, g, y, ,,  , A, r, c, h, i, t, e, c, t, u, r, a, l,  , h, e, r, i, t, a, g, e, ,,  , B, i, b, l, i, o, m, e, t, r, i, c,  , a, n, a, l, y, s, i, s, ,,  , P, R, I, S, M, A</data>
+    </node>
+    <node id="Teachers' views on the level of cultural heritage knowledge that can be improved through innovative technologies">
+      <data key="d0">Artigo</data>
+      <data key="d1">Dinara Zhabykbayeva</data>
+      <data key="d2">;,  , C, u, l, t, u, r, a, l,  , h, e, r, i, t, a, g, e, ,,  , I, n, n, o, v, a, t, i, v, e,  , t, e, c, h, n, o, l, o, g, i, e, s, ,,  , C, u, l, t, u, r, a, l,  , h, e, r, i, t, a, g, e,  , e, d, u, c, a, t, i, o, n, ,,  , S, t, u, d, e, n, t,  , k, n, o, w, l, e, d, g, e,  , l, e, v, e, l, .</data>
+    </node>
+    <node id="Conservação">
+      <data key="d0">Categoria</data>
+    </node>
+    <node id="Conservação de Material Digital">
+      <data key="d0">Subcategoria</data>
+    </node>
+    <node id="Online Database of 14th-century South Slavonic Manuscripts. Research Results and Perspectives">
+      <data key="d0">Artigo</data>
+      <data key="d1">Marco Scarpa</data>
+      <data key="d2">D, i, g, i, t, a, l,  , H, u, m, a, n, i, t, i, e, s, ,,  , S, o, u, t, h,  , S, l, a, v, i, c,  , M, a, n, u, s, c, r, i, p, t, s, ,,  , T, y, p, o, l, o, g, i, e, s,  , o, f,  , M, a, n, u, s, c, r, i, p, t, s</data>
+    </node>
+    <node id="Diagnóstico e Análise">
+      <data key="d0">Subcategoria</data>
+    </node>
+    <node id="Cultural Heritage through the Lens of e-Governance">
+      <data key="d0">Artigo</data>
+      <data key="d1">Daniela Pavlova</data>
+      <data key="d2">C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e, ,,  , e, -, G, o, v, e, r, n, a, n, c, e, ,,  , D, i, g, i, t, a, l,  , D, o, c, u, m, e, n, t, a, t, i, o, n, ,,  , O, n, l, i, n, e,  , a, c, e, s, s</data>
+    </node>
+    <node id="Digital Preservation and Copyright: An International Study">
+      <data key="d0">Artigo</data>
+      <data key="d1">June M. Besek,</data>
+      <data key="d2" />
+    </node>
+    <node id="Digitization of myth: The HimmapanVR Project's role in cultural preservation">
+      <data key="d0">Artigo</data>
+      <data key="d1">Suepphong Chernbumroong</data>
+      <data key="d2">V, i, s, u, a, l,  , m, u, s, e, u, m, ,, D, i, g, i, t, a, l,  , m, u, s, e, u, m, ,, C, u, l, t, u, r, a, l,  , p, r, e, s, e, r, v, a, t, i, o, n, ,, C, u, l, t, u, r, a, l,  , h, e, r, i, t, a, g, e, ,, I, m, m, e, r, s, i, v, e,  , s, y, s, t, e, m, s, ,, V, i, r, t, u, a, l,  , r, e, a, l, i, t, y, ,, M, y, t, h, i, c, a, l,  , c, r, e, a, t, u, r, e, s</data>
+    </node>
+    <node id="Digital Cultural Heritage Projects: Opportunities and Future Challenges">
+      <data key="d0">Artigo</data>
+      <data key="d1">Rossella Caffo</data>
+      <data key="d2">a, c, c, e, s, s,  , t, o,  , c, u, l, t, u, r, a, l,  , h, e, r, i, t, a, g, e,  , r, e, s, o, u, r, c, e, s, ;,  , D, i, g, i, t, a, l,  , C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e,  , (, D, C, H, ), ;,  , I, n, t, e, r, n, e, t,  , C, u, l, t, u, r, a, l, e, ;,  , C, u, l, t, u, r, a, I, t, a, l, i, a</data>
+    </node>
+    <node id="Técnicas de Conservação Preventiva">
+      <data key="d0">Subcategoria</data>
+    </node>
+    <node id="Gamifying cultural heritage: Exploring the potential of immersive virtual exhibitions">
+      <data key="d0">Artigo</data>
+      <data key="d1">Hanbing Wang,</data>
+      <data key="d2">C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e, ,,  , G, a, m, i, f, i, c, a, t, i, o, n, ,,  , H, u, m, a, n, -, c, o, m, p, u, t, e, r,  , I, n, t, e, r, a, c, t, i, o, n, ,,  , I, m, m, e, r, s, i, v, e,  , v, i, r, t, u, a, l,  , E, x, h, i, b, i, t, i, o, n, ,,  , R, e, v, i, e, w</data>
+    </node>
+    <node id="Monitoramento Ambiental">
+      <data key="d0">Subcategoria</data>
+    </node>
+    <node id="Digital heritage construction: Testing the heritage value of construction documentation and building processes through Virtual Reality">
+      <data key="d0">Artigo</data>
+      <data key="d1">Luciano Cardellicchio</data>
+      <data key="d2">D, i, g, i, t, a, l,  , h, e, r, i, t, a, g, e, ;</data>
+    </node>
+    <node id="Software">
+      <data key="d0">Categoria</data>
+    </node>
+    <node id="Modelagem 3D">
+      <data key="d0">Subcategoria</data>
+    </node>
+    <node id="The Role of Language Technologies in Digital Humanities(The Case of Parliamentary Debates)">
+      <data key="d0">Artigo</data>
+      <data key="d1">Petya Osenova</data>
+      <data key="d2">P, a, r, l, i, a, m, e, n, t, a, r, y,  , D, e, b, a, t, e, s, ,,  , P, a, r, l, a, m, i, n, t, ,,  , C, o, m, p, a, r, a, b, l, e,  , C, o, r, p, o, r, a, ,,  , L, a, n, g, u, a, g, e,  , T, e, c, h, n, o, l, o, g, y, ,,  , D, i, g, i, t, a, l,  , H, u, m, a, n, i, t, i, e, s</data>
+    </node>
+    <node id="Ferramentas de Restauração Digital">
+      <data key="d0">Subcategoria</data>
+    </node>
+    <node id="The Impact of Cloud Technologies on Preserving and Promoting Cultural Identity">
+      <data key="d0">Artigo</data>
+      <data key="d1">Irena Peteva;Daniela Pavlova;Ivanka Pavlova</data>
+      <data key="d2">C, l, o, u, d,  , T, e, c, h, n, o, l, o, g, i, e, s, ,,  , D, i, g, i, t, a, l, i, z, a, t, i, o, n, ,,  , C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e, ,,  , C, u, l, t, u, r, a, l,  , i, d, e, n, t, i, t, y</data>
+    </node>
+    <node id="Análise de Imagem">
+      <data key="d0">Subcategoria</data>
+    </node>
+    <node id="Towards an Augmented Reality Game for Learning about Ivan Vazov's Literary Works">
+      <data key="d0">Artigo</data>
+      <data key="d1">Ivan Kratchanov</data>
+      <data key="d2">S, e, r, i, o, u, s,  , G, a, m, e, s, ,,  , P, l, o, v, d, i, v, ,,  , C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e, ,,  , I, v, a, n,  , V, a, z, o, v, ,,  , A, u, g, m, e, n, t, e, d,  , r, e, a, l, i, t, y</data>
+    </node>
+    <node id="Digital modes of interpretation of Pictish sculpture">
+      <data key="d0">Artigo</data>
+      <data key="d1">Sharon Pisani</data>
+      <data key="d2">D, i, g, i, t, i, s, a, t, i, o, n, ,,  , 3, D,  , m, o, d, e, l, l, i, n, g, ,,  , H, e, r, i, t, a, g, e,  , i, n, t, e, r, p, r, e, t, a, t, i, o, n, ,,  , I, m, m, e, r, s, i, v, e,  , l, e, a, r, n, i, n, g, ,,  , V, i, r, t, u, a, l,  , r, e, a, l, i, t, y, ,,  , D, i, g, i, t, a, l,  , h, e, r, i, t, a, g, e</data>
+    </node>
+    <node id="Sistemas de Gerenciamento de Conteúdo">
+      <data key="d0">Subcategoria</data>
+    </node>
+    <node id="The Great Buddha Project: Digitally Archiving, Restoring, and Analyzing Cultural Heritage Objects">
+      <data key="d0">Artigo</data>
+      <data key="d1">Katsushi Ikeuchi</data>
+      <data key="d2">c, u, l, t, u, r, a, l,  , h, e, r, i, t, a, g, e, ,,  , r, a, n, g, e,  , d, a, t, a, ,,  , a, l, i, g, n, m, e, n, t, ,,  , m, e, r, g, i, n, g, ,,  , t, e, x, t, u, r, i, n, g</data>
+    </node>
+    <node id="Acesso e Divulgação">
+      <data key="d0">Categoria</data>
+    </node>
+    <node id="Aplicativos Mobile">
+      <data key="d0">Subcategoria</data>
+    </node>
+    <node id="Tangible and Personalized Smart Museum Application">
+      <data key="d0">Artigo</data>
+      <data key="d1">Rosen Ivanov</data>
+      <data key="d2">S, m, a, r, t,  , M, u, s, e, u, m, s, ,,  , T, a, n, g, i, b, l, e,  , I, n, t, e, r, f, a, c, e, s, ,,  , U, s, e, r,  , S, e, g, m, e, n, t, a, t, i, o, n, ,,  , U, s, e, r,  , P, r, o, f, i, l, i, n, g, ,,  , P, u, s, h,  , N, o, t, i, f, i, c, a, t, i, o, n, s, .</data>
+    </node>
+    <node id="Exposições Virtuais">
+      <data key="d0">Subcategoria</data>
+    </node>
+    <node id="Digital Reconstruction of Lost Architectural Heritage on the Case Study of Two 19th Century Houses">
+      <data key="d0">Artigo</data>
+      <data key="d1">Dimitrina Popova</data>
+      <data key="d2">3, D, ,,  , P, r, e, s, e, r, v, a, t, i, o, n, ,,  , A, r, c, h, i, t, e, c, t, u, r, a, l,  , H, e, r, i, t, a, g, e, ,,  , V, i, r, t, u, a, l,  , R, e, a, l, i, t, y, .</data>
+    </node>
+    <node id="Personalization Approaches for Cultural Heritage Study">
+      <data key="d0">Artigo</data>
+      <data key="d1">Emanuela Mitreva</data>
+      <data key="d2">P, e, r, s, o, n, a, l, i, z, a, t, i, o, n, ,,  , A, d, a, p, t, i, v, e,  , M, e, t, h, o, d, s, ,,  , W, e, b,  , U, s, a, g, e,  , M, i, n, i, n, g, ,,  , C, o, n, t, e, n, t, b, a, s, e, d,  , F, i, l, t, e, r, i, n, g, ,,  , C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e, .</data>
+    </node>
+    <node id="Plataformas Online">
+      <data key="d0">Subcategoria</data>
+    </node>
+    <node id="Aquae Calidae - New Museum Exposition Based on Various Digitalization Methods">
+      <data key="d0">Artigo</data>
+      <data key="d1">Radovesta Stewart</data>
+      <data key="d2">D, i, g, i, t, a, l, i, z, a, t, i, o, n, ,,  , C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e, ,,  , 3, D,  , M, a, p, p, i, n, g, ,,  , T, o, u, r, i, s, m, ,,  , V, i, r, t, u, a, l,  , r, e, a, l, i, t, y</data>
+    </node>
+    <node id="ET-06-2022-0247_proof 324..339">
+      <data key="d0">Artigo</data>
+      <data key="d1">Daniel Camunas-Garcıa</data>
+      <data key="d2">B, i, b, l, i, o, m, e, t, r, i, c,  , a, n, a, l, y, s, i, s, ,,  , S, c, i, e, n, t, i, f, i, c,  , m, a, p, p, i, n, g, ,,  , M, o, b, i, l, e,  , l, e, a, r, n, i, n, g, ,,  , G, a, m, e, -, b, a, s, e, d,  , l, e, a, r, n, i, n, g, ,,  , V, i, d, e, o,  , g, a, m, e, s, ,</data>
+    </node>
+    <node id="Documentação">
+      <data key="d0">Categoria</data>
+    </node>
+    <node id="Metadados e Catalogação">
+      <data key="d0">Subcategoria</data>
+    </node>
+    <node id="The Case Study of the Serbian Copyist Ioan. On the Development of a Scientific Method for South Slavonic Palaeography">
+      <data key="d0">Artigo</data>
+      <data key="d1">Marta Riparante</data>
+      <data key="d2">S, o, u, t, h,  , S, l, a, v, o, n, i, c,  , P, a, l, a, e, o, g, r, a, p, h, y, ,,  , S, e, r, b, i, a, n,  , C, o, p, y, i, s, t, s, ,,  , D, a, t, a, b, a, s, e, ,,  , D, e, s, c, r, i, p, t, i, v, e,  , m, o, d, e, l</data>
+    </node>
+    <node id="Saving temporary exhibitions in virtual environments: The Digital Renaissance of Ulisse Aldrovandi - Acquisition and digitisation of cultural heritage objects">
+      <data key="d0">Artigo</data>
+      <data key="d1">Roberto Balzani</data>
+      <data key="d2">D, i, g, i, t, a, l,  , c, u, l, t, u, r, a, l,  , h, e, r, i, t, a, g, e,  , o, b, j, e, c, t, s, ,,  , D, i, g, i, t, a, l,  , t, w, i, n, s, ,, P, h, o, t, o, g, r, a, m, m, e, t, r, y, ,, P, r, e, s, e, r, v, a, t, i, o, n,  , o, f,  , t, e, m, p, o, r, a, r, y,  , e, x, h, i, b, i, t, i, o, n, s, ,, S, t, r, u, c, t, u, r, e, d,  , l, i, g, h, t,  , p, r, o, j, e, c, t, i, o, n,  , s, c, a, n, n, i, n, g</data>
+    </node>
+    <node id="Restauração">
+      <data key="d0">Categoria</data>
+    </node>
+    <node id="Métodos de Restauração Digital">
+      <data key="d0">Subcategoria</data>
+    </node>
+    <node id="Representing and Creating 3D Bobbin Lace">
+      <data key="d0">Artigo</data>
+      <data key="d1">Julie Agrain</data>
+      <data key="d2">B, o, b, b, i, n,  , L, a, c, e, ,,  , L, a, c, e, m, a, k, i, n, g,  , G, e, s, t, u, r, e, s, ,,  , T, e, x, t, i, l, e,  , D, e, s, i, g, n, ,,  , 3, D,  , M, e, s, h, e, s, .</data>
+    </node>
+    <node id="Cultural Heritage Sites Visualization System based on Outdoor Augmented Reality">
+      <data key="d0">Artigo</data>
+      <data key="d1">Jong-Gil Han</data>
+      <data key="d2">A, u, g, m, e, n, t, e, d,  , R, e, a, l, i, t, y, ,,  , C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e,  , S, i, t, e, s, ,,  , S, U, R, F, ,,  , O, b, j, e, c, t,  , P, a, n, o, r, a, m, a</data>
+    </node>
+    <node id="Microsoft Word - Layout-IES-p70">
+      <data key="d0">Artigo</data>
+      <data key="d1">Somchai Muangmool</data>
+      <data key="d2">a, u, g, m, e, n, t, e, d,  , r, e, a, l, i, t, y, ,,  , m, o, b, i, l, e,  , a, p, p, l, i, c, a, t, i, o, n, ,,  , d, i, g, i, t, a, l,  , l, e, a, r, n, i, n, g,  , m, e, d, i, a, ,,  , t, e, m, p, l, e,  , h, i, s, t, o, r, y,  , l, e, a, r, n, i, n, g, ,,  , U, n, i, t, y,  , 3, D</data>
+    </node>
+    <node id="Cultural Heritage Preservation of Traditional Indian Art through Virtual New-media">
+      <data key="d0">Artigo</data>
+      <data key="d1">Saptarshi Kolay</data>
+      <data key="d2">V, i, r, t, u, a, l,  , h, e, r, i, t, a, g, e, ;,  , N, e, w, -, m, e, d, i, a, ;,  , T, r, a, d, i, t, i, o, n, a, l,  , I, n, d, i, a, n,  , a, r, t, ;,  , K, n, o, w, l, e, d, g, e,  , p, r, e, s, e, r, v, a, t, i, o, n, ;,  , V, i, s, u, a, l,  , a, n, a, l, y, s, i, s, ;,  , P, a, r, a, d, i, g, m,  , s, h, i, f, t</data>
+    </node>
+    <node id="ICT Competence in Social Sciences: Designing Digital Resources for Teaching and Learning Cultural Heritage">
+      <data key="d0">Artigo</data>
+      <data key="d1">Ana Luisa Martínez Carrillo</data>
+      <data key="d2">n, o, v, e, l,  , t, e, c, h, n, o, l, o, g, i, e, s, ,,  , a, r, c, h, a, e, o, l, o, g, i, c, a, l,  , d, o, c, u, m, e, n, t, a, t, i, o, n, ,,  , d, i, g, i, t, a, l,  , r, e, s, o, u, r, c, e, s, ,,  , h, i, g, h,  , e, d, u, c, a, t, i, o, n</data>
+    </node>
+    <node id="Integração de Técnicas Tradicionais e Digitais">
+      <data key="d0">Subcategoria</data>
+    </node>
+    <node id="Career Guidance Model for Digital Transformation in the Cultural and Creative Industries">
+      <data key="d0">Artigo</data>
+      <data key="d1">Evita Pilege</data>
+      <data key="d2">C, u, l, t, u, r, a, l,  , a, n, d,  , C, r, e, a, t, i, v, e,  , i, n, d, u, s, t, r, i, e, s, ,,  , D, i, g, i, t, a, l,  , T, r, a, n, s, f, o, r, m, a, t, i, o, n, ,,  , H, u, m, a, n,  , C, a, p, i, t, a, l, ,,  , I, n, f, o, r, m, a, t, i, o, n,  , T, e, c, h, n, o, l, o, g, i, e, s, .</data>
+    </node>
+    <node id="Estudos de Caso em Restauração">
+      <data key="d0">Subcategoria</data>
+    </node>
+    <node id="Intellectual Property Protection of Digital Cultural Heritage">
+      <data key="d0">Artigo</data>
+      <data key="d1">Todor Todorov</data>
+      <data key="d2">C, u, l, t, u, r, a, l,  , H, e, r, i, t, a, g, e, ,,  , D, i, g, i, t, a, l,  , C, o, n, t, e, n, t, ,,  , I, n, t, e, l, l, e, c, t, u, a, l,  , P, r, o, p, e, r, t, y, ,,  , W, a, t, e, r, m, a, r, k, i, n, g, ,,  , P, r, o, t, e, c, t, i, o, n,  , F, r, a, m, e, w, o, r, k,  , M, o, d, e, l, s, .</data>
+    </node>
+    <node id="Educação e Disseminação">
+      <data key="d0">Categoria</data>
+    </node>
+    <node id="Geral">
+      <data key="d0">Subcategoria</data>
+    </node>
+    <node id="Digital Storytelling Approach for Environmental Challenges and the Early School Leaving Prevention">
+      <data key="d0">Artigo</data>
+      <data key="d1">Michela Tramonti</data>
+      <data key="d2">D, i, g, i, t, a, l,  , S, t, o, r, y, t, e, l, l, i, n, g, ,,  , G, a, m, e, s, ,,  , E, n, v, i, r, o, n, m, e, n, t, a, l,  , I, s, s, u, e, s, .</data>
+    </node>
+    <node id="Armazenamento">
+      <data key="d0">Categoria</data>
+    </node>
+    <node id="Developing augmented reality applications to promote digital storytelling: The cases of Choirokoitia and Sandby Borg">
+      <data key="d0">Artigo</data>
+      <data key="d1">Stella Hadjistassou</data>
+      <data key="d2">A, R,  , d, e, s, i, g, n,  , &amp;,  , d, e, v, e, l, o, p, m, e, n, t, ,,  , s, t, o, r, y, t, e, l, l, i, n, g, ,,  , c, u, l, t, u, r, a, l,  , h, e, r, i, t, a, g, e</data>
+    </node>
+    <edge source="Digitalização" target="Scanner 3D">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Digitalização" target="Fotogrametria">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Scanner 3D" target="Revival and Multiplatform Presentation of Forgotten Religious Heritage Sites in the Project Named Sacred Past">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Scanner 3D" target="Unsupervised Creation of Semantic Graphs to Navigate Intangible Cultural Heritage Using Transformers">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Scanner 3D" target="The Design Process of Educational Video Games in Cultural Heritage">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Scanner 3D" target="Digital Approaches for the Presentation of Tourist Sites with Historical Significance">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Scanner 3D" target="Comprehensive educational framework on the application of 3D technologies for the restoration of cultural heritage objects">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Scanner 3D" target="Fluid space: Digitisation of cultural heritage and its media dissemination">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Fotogrametria" target="Academic Institutional Repositories for Studies, Research and Preservation of Scientific Heritage in Latvia">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Fotogrametria" target="Digital Revival of the Bulgarica Collection of the Central Library of the Bulgarian Academy of Sciences">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Fotogrametria" target="An Approach to Data Representation and Processing of Knowledge from the Bulgarian Folklore">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Fotogrametria" target="Usage of Digitised Scientific Resources in Educational Institutions">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Fotogrametria" target="Educational Video Games as Tools for Raising Awareness of the Protection and Preservation of Cultural Heritage">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Fotogrametria" target="Storytelling and Gaming Tools for Easy Immersive Fruition of Intangible Heritage">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Fotogrametria" target="3D Reconstruction &amp; Traditional Illustrations, a Non-invasive Resource for the Practice and Teaching of Conservation and Restoration of Cultural Heritage">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Fotogrametria" target="A review of the tools and techniques used in the digital preservation of architectural heritage within disaster cycles">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Fotogrametria" target="Teachers' views on the level of cultural heritage knowledge that can be improved through innovative technologies">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Conservação" target="Conservação de Material Digital">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Conservação" target="Diagnóstico e Análise">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Conservação" target="Técnicas de Conservação Preventiva">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Conservação" target="Monitoramento Ambiental">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Conservação de Material Digital" target="Online Database of 14th-century South Slavonic Manuscripts. Research Results and Perspectives">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Diagnóstico e Análise" target="Cultural Heritage through the Lens of e-Governance">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Diagnóstico e Análise" target="Digital Preservation and Copyright: An International Study">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Diagnóstico e Análise" target="Digitization of myth: The HimmapanVR Project's role in cultural preservation">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Diagnóstico e Análise" target="Digital Cultural Heritage Projects: Opportunities and Future Challenges">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Técnicas de Conservação Preventiva" target="Gamifying cultural heritage: Exploring the potential of immersive virtual exhibitions">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Monitoramento Ambiental" target="Digital heritage construction: Testing the heritage value of construction documentation and building processes through Virtual Reality">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Software" target="Modelagem 3D">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Software" target="Ferramentas de Restauração Digital">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Software" target="Análise de Imagem">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Software" target="Sistemas de Gerenciamento de Conteúdo">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Modelagem 3D" target="The Role of Language Technologies in Digital Humanities(The Case of Parliamentary Debates)">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Ferramentas de Restauração Digital" target="The Impact of Cloud Technologies on Preserving and Promoting Cultural Identity">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Análise de Imagem" target="Towards an Augmented Reality Game for Learning about Ivan Vazov's Literary Works">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Análise de Imagem" target="Digital modes of interpretation of Pictish sculpture">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Sistemas de Gerenciamento de Conteúdo" target="The Great Buddha Project: Digitally Archiving, Restoring, and Analyzing Cultural Heritage Objects">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Acesso e Divulgação" target="Aplicativos Mobile">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Acesso e Divulgação" target="Exposições Virtuais">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Acesso e Divulgação" target="Plataformas Online">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Aplicativos Mobile" target="Tangible and Personalized Smart Museum Application">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Exposições Virtuais" target="Digital Reconstruction of Lost Architectural Heritage on the Case Study of Two 19th Century Houses">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Exposições Virtuais" target="Personalization Approaches for Cultural Heritage Study">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Plataformas Online" target="Aquae Calidae - New Museum Exposition Based on Various Digitalization Methods">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Plataformas Online" target="ET-06-2022-0247_proof 324..339">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Documentação" target="Metadados e Catalogação">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Metadados e Catalogação" target="The Case Study of the Serbian Copyist Ioan. On the Development of a Scientific Method for South Slavonic Palaeography">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Metadados e Catalogação" target="Saving temporary exhibitions in virtual environments: The Digital Renaissance of Ulisse Aldrovandi - Acquisition and digitisation of cultural heritage objects">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Restauração" target="Métodos de Restauração Digital">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Restauração" target="Integração de Técnicas Tradicionais e Digitais">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Restauração" target="Estudos de Caso em Restauração">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Métodos de Restauração Digital" target="Representing and Creating 3D Bobbin Lace">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Métodos de Restauração Digital" target="Cultural Heritage Sites Visualization System based on Outdoor Augmented Reality">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Métodos de Restauração Digital" target="Microsoft Word - Layout-IES-p70">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Métodos de Restauração Digital" target="Cultural Heritage Preservation of Traditional Indian Art through Virtual New-media">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Métodos de Restauração Digital" target="ICT Competence in Social Sciences: Designing Digital Resources for Teaching and Learning Cultural Heritage">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Integração de Técnicas Tradicionais e Digitais" target="Career Guidance Model for Digital Transformation in the Cultural and Creative Industries">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Estudos de Caso em Restauração" target="Intellectual Property Protection of Digital Cultural Heritage">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Educação e Disseminação" target="Geral">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Geral" target="Digital Storytelling Approach for Environmental Challenges and the Early School Leaving Prevention">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Geral" target="Developing augmented reality applications to promote digital storytelling: The cases of Choirokoitia and Sandby Borg">
+      <data key="d3">contains</data>
+    </edge>
+    <edge source="Armazenamento" target="Geral">
+      <data key="d3">contains</data>
+    </edge>
+  </graph>
+</graphml>
