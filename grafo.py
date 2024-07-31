@@ -48,6 +48,6 @@ for categoria, subcategorias in ontologia.items():
                     g.add((artigo_uri, URIRef(prop_uri), Literal(value)))
 
 # Salvar o grafo como um arquivo OWL
-g.serialize(destination='ontologia.owl', format='xml')
+g.serialize(destination='grafo.owl', format='xml')
 
 print("Ontologia OWL gerada com sucesso.")
