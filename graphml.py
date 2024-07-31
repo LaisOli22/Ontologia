@@ -21,4 +21,4 @@ for categoria, subcategorias in ontologia.items():
             G.add_edge(subcategoria, artigo["title"], relationship='contains')
 
 # Exportar para GraphML
-nx.write_graphml(G, 'ontologia.graphml')
+nx.write_graphml(G, 'grafo.graphml')
